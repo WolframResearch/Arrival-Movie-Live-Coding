@@ -8,7 +8,7 @@ These notebooks correspond to Christopher Wolfram's recent LiveEdu.tv coding ses
 
 The content found here is meant to be a companion to this coding session, allowing anyone to modify and tinker with some of the content from the movie. .nb files can be opened and modified in either Mathematica, the Wolfram Cloud or the Wolfram Development Platform.
 
-Please Note: Some of the features used by Christopher in the coding session utilize features from version 11.1 of the Wolfram Language. As of the time of this upload, this version is unreleased to the public.
+Please Note: Some of the features used by Christopher in the coding session utilize features from version 11.1 of the Wolfram Language.
 
 ## Video-notebook breakdown
 
