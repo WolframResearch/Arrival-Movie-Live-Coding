@@ -2,9 +2,9 @@
 
 ## Synopsis
 
-These notebooks correspond to Christopher Wolfram's recent LiveEdu.tv coding session in which he analyzed the logograms and other content from the 2016 film *Arrival*. The session can be found by using the following link:
+These notebooks correspond to Christopher Wolfram's live coding session in which he analyzed the logograms and other content from the 2016 film *Arrival*. The session can be found by using the following link:
 
-[The Code Behind Arrival The Movie](https://www.liveedu.tv/christopherwolfram/videos/LAAJL-the-code-behind-arrival-the-movie/)
+[The Code Behind Arrival The Movie (youtube.com)](https://youtu.be/r8nTifCIr0c)
 
 The content found here is meant to be a companion to this coding session, allowing anyone to modify and tinker with some of the content from the movie. .nb files can be opened and modified in either Mathematica, the Wolfram Cloud or the Wolfram Development Platform.
 
