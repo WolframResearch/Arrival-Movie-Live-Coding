@@ -1,5 +1,7 @@
 # The Code Behind *Arrival* (The Movie) Companion
 
+[![View notebooks](https://wolfr.am/Etv7EZ90)](https://wolfr.am/Eu8v8QtQ)
+
 ## Synopsis
 
 These notebooks correspond to Christopher Wolfram's live coding session in which he analyzed the logograms and other content from the 2016 film *Arrival*. The session can be found by using the following link:
